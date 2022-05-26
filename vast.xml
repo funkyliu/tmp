@@ -1,0 +1,50 @@
+<VAST version="2.0">
+<Ad>
+<InLine>
+<AdSystem>
+<![CDATA[ GrabAdServer ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ In-Stream Video ]]>
+</AdTitle>
+<Creatives>
+<Creative id="xYTO5UzN0gjN0kzN4cTOwID" sequence="1" AdID="xYTO5UzN0gjN0kzN4cTOwID">
+<Linear>
+<Duration>00:00:00</Duration>
+<TrackingEvents/>
+<MediaFiles>
+<MediaFile id="xYTO5UzN0gjN0kzN4cTOwID" delivery="progressive" type="video/mp4" width="852" height="480" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://d3vpva6y8kidud.cloudfront.net/encoded-videos/xYTO5UzN0gjN0kzN4cTOwID/xYTO5UzN0gjN0kzN4cTOwID480p.mp4?Expires=1654015584&Signature=S2zXcH9-J15-dac8GJY9kggx1Kf~eG4CBMEE4sueSUw1ASEKzCB~HshYJoCkImKxzMZ6LwDr5zi1beYvIOmH~gPTziMlawUkX89g-VEg-JhyMIpzVL9JqQj1NkEmwFXAMvRHViqHz8wIaXaoyieOuxy8eDiwuFS8v7l23NrEBLY7peYETAqhx~uV~SGmCSc6z0mOb2udDuqejNd0ppfk3j~xyzJNbw-Vpu36Lzm5gR5ezQXhxNu-45q9QvnnBkwccx9cKExgIK3OvCEyilwDdldlRRJkj0LUKp-Cb7lTjfKO8i2P1Qk2FlD6rFYIx-F-6VYDfya2p06OV0wiVRFoEA__&Key-Pair-Id=KW6EOI5GKLCR7 ]]>
+</MediaFile>
+<MediaFile id="xYTO5UzN0gjN0kzN4cTOwID" delivery="progressive" type="video/mp4" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://d3vpva6y8kidud.cloudfront.net/encoded-videos/xYTO5UzN0gjN0kzN4cTOwID/xYTO5UzN0gjN0kzN4cTOwID720p.mp4?Expires=1654015584&Signature=Z~7vsN~Sc0igmr2BCMuh-8GfVgabzMbYYmeepmfogYGzhyrsUi4np7m15Mo8fN4QhZHfg2xhXEXmdf1uRcASNoP0CeWF3TKRJDmCaJzCbCmrH~xzN~Rif1rtobm~n~mohobmVlFv-FgMUtM4GGi-Jet9ugbIDoiew6imM6GRiRe6Y~g8zNsxyZjN2VjLN6Whg1rlpsPkjYwMUL3SsseQ3nuul9SuV5T-Z-edEzevunX-i8eqY--SQmqT-osvd8Sr1dM~YZre6K2JgxQdXVopb3HkFQm6zPEfWt2wtBtWvX6IoQDaGVV9izel7QIrANkVa9m5WVtswXmGoEJz726-rQ__&Key-Pair-Id=KW6EOI5GKLCR7 ]]>
+</MediaFile>
+<MediaFile id="xYTO5UzN0gjN0kzN4cTOwID" delivery="progressive" type="video/mp4" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://d3vpva6y8kidud.cloudfront.net/encoded-videos/xYTO5UzN0gjN0kzN4cTOwID/xYTO5UzN0gjN0kzN4cTOwID1080p.mp4?Expires=1654015584&Signature=lbdeOP6LpQUF2EhyIAEsfj2RlSaOPxs94UD4UHRNNkrdqk43auTaFnrqwW2aNnQgRZnDHb2XWjlPsEBJwJmktMvTp1JZkOLa16Zb8YIDlxxImqGQRcf5H1KuaVoJLVhLuugmWGGcxR1f2a2oB1juB9UNRN~j8ZZdb~xCHnr-lco-B8QKtpHEo6qFgX2s4MfOKKVGL91Tvuv-VV1DjguETEoyHHxjytsUqu4SVlRGCVmyxr0VfR1u3KiNRi-FykYDpNVJUv3ybBXpzG1oqsElT2bTRXh--JfC2QH2FO9zX0x0jIGdQoHy~4M4P62mNqMisKBrvmFdZKE5V1j7kOR5dw__&Key-Pair-Id=KW6EOI5GKLCR7 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+<UniversalAdId idRegistry="" idValue="">
+<![CDATA[ xYTO5UzN0gjN0kzN4cTOwID ]]>
+</UniversalAdId>
+</Creative>
+<Creative id="xYTO5UzN0gjN0kzN4cTOwID" sequence="1" AdID="xYTO5UzN0gjN0kzN4cTOwID">
+<CompanionAds>
+<Companion id="xYTO5UzN0gjN0kzN4cTOwID" width="1280" height="720">
+<CompanionClickThrough/>
+<TrackingEvents/>
+<StaticResource creativeType="image/jpeg">
+<![CDATA[ https://d3vpva6y8kidud.cloudfront.net/thumbnails/xYTO5UzN0gjN0kzN4cTOwID/0b76.jpeg?Expires=1654015584&Signature=Vk8ZyAcYNdBF-vhytI0tTJflXfaPY-k~BXOHDjmXmnS-BIasK-HNrA-yTwiqFZaXp~u81-doymP-HCZeg1OY5MNf~EDEmx0sfP6bR~24j6fvN4XpmAMH1T-y0QrMtG-358e9tAtH5-3grS1p1tUMhblPN4MX8m0QpuW~RjUkOu9VVeei5yb0h25tpofTA3dUxoE-Xzf3ecU99EJasc6rlR0zd7mLcCGJqlsJluuE1GKdEHXrBEPt8dfQTveVcg52QjRgyPYY0m6ldis5CB4KpSRZaMaxCD1tS9ZS9GatdMY6VYJCx52p6ZhAD0cfsA5EksttYJ~jAkbi6P~ggjwUWQ__&Key-Pair-Id=KW6EOI5GKLCR7 ]]>
+</StaticResource>
+<IFrameResource/>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+<Description>
+<![CDATA[ resident_evil_09 ]]>
+</Description>
+<Survey/>
+</InLine>
+</Ad>
+</VAST>
