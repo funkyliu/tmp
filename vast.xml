@@ -30,7 +30,7 @@
 						</VideoClicks>
 						<MediaFiles>
 							<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://s0.2mdn.net/4253510/google_ddm_animation_480P.webm ]]>
+								<![CDATA[ https://s0.2mdn.net/4253510/google_ddm_animation_480P.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
