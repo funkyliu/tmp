@@ -30,7 +30,7 @@
 						</VideoClicks>
 						<MediaFiles>
 							<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://redirector.gvt1.com/videoplayback/id/37685dc1cfc45f63/itag/18/source/dclk_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1721037823/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9F9791F728C8E83850CB2BD0F47F546F0F66DF27.2AC86AF5B8E1F666F95711BB440C35A96E497C5B/key/ck2/file/file.mp4 ]]>
+								<![CDATA[ https://s0.2mdn.net/4253510/google_ddm_animation_480P.webm ]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
