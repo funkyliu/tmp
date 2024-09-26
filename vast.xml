@@ -50,7 +50,8 @@
 					<AdVerifications>
 						<Verification vendor="iabtechlab.com-omid">
 							<JavaScriptResource apiFramework="omid" browserOptional="true">
-								<![CDATA[ https://s3-us-west-2.amazonaws.com/updated-omsdk-files/compliance-js/omid-validation-verification-script-v1-GRABTAXI-02142023.js]]>
+								<![CDATA[ https://raw.githubusercontent.com/funkyliu/tmp/master/omid-validation-verification-script-v1.js]]>
+								<!--<![CDATA[ https://s3-us-west-2.amazonaws.com/updated-omsdk-files/compliance-js/omid-validation-verification-script-v1-GRABTAXI-02142023.js]]>-->
 							</JavaScriptResource>
 							<TrackingEvents> 
 								<Tracking event="verificationNotExecuted">
